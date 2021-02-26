@@ -1,0 +1,13 @@
+{
+  "name": "pay-bbbot",
+  "version": "1.0.0",
+  "description": "Bot ultilizando de serviço pago para resolver os captha",
+  "main": "index.js",
+  "author": "Guilherme Salutiano",
+  "license": "MIT",
+  "dependencies": {
+    "@antiadmin/anticaptchaofficial": "^1.0.14",
+    "dotenv": "^8.2.0",
+    "puppeteer": "^7.1.0"
+  }
+}
